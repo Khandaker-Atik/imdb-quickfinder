@@ -1,4 +1,4 @@
-# IMDb QuickFind 🎬
+# IMDb QuickFinder 🎬
 
 A fast, clean, and user-friendly **movie and TV show search app** powered by the [OMDb API](https://www.omdbapi.com/).  
 Search for titles, get instant suggestions, and view detailed information with a polished and responsive interface.
@@ -49,5 +49,5 @@ Try the live demo here:
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/Khandaker-Atik/imdb-quickfind.git
-cd imdb-quickfind
+git clone https://github.com/Khandaker-Atik/imdb-quickfinder.git
+cd imdb-quickfinder
