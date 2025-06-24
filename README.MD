@@ -8,7 +8,7 @@ Search for titles, get instant suggestions, and view detailed information with a
 ## Demo
 
 Try the live demo here:  
-[imdb-quickfind.vercel.app](https://imdb-quickfinder.vercel.app) *(replace with your actual deployed URL)*
+[imdb-quickfind.vercel.app](https://imdb-quickfinder.vercel.app) 
 
 ---
 
